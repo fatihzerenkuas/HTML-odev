@@ -1,0 +1,1 @@
+![sitenin screenshoti](C:\Users\Zeren\Desktop\HTML Ödev\img\html.jpg)
