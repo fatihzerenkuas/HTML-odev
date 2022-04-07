@@ -1,1 +1,1 @@
-![sitenin screenshoti](\img\html.jpg)
+![sitenin screenshoti](..\img\html.jpg)
